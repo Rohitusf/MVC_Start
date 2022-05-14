@@ -12,6 +12,7 @@ using Microsoft.Extensions.Hosting;
 namespace MVC_Start
 {
     //Comment added by Sonal
+    //Comment added by Vera
     public class Startup
     {
         // This method gets called by the runtime. Use this method to add services to the container.
